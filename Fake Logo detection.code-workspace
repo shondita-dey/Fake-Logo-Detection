@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "data(fake logo detection)"
+		},
+		{
+			"path": "models"
+		},
+		{
+			"path": "outputs"
+		}
+	]
+}
